@@ -1,6 +1,8 @@
 # Modern Chair Web Page 
 Welcome to the Modern Chair Web Page Project! This project aims to create a visually appealing and functional web page to showcase modern chair designs. The website will feature high-quality images, detailed descriptions, and user-friendly navigation to provide an excellent browsing experience for visitors interested in modern furniture.
 
+### Deployment Link: https://modernchairpage.netlify.app/
+
 ## Features
 -Responsive Design: The website will be fully responsive, ensuring an optimal viewing experience across devices, from desktops to smartphones.
 -High-Quality Images: Display detailed images of various modern chairs to capture user interest.
